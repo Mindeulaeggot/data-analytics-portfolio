@@ -2,6 +2,8 @@
 
 I am an aspiring data analyst and machine learning intern interested in turning messy business data into clear decisions, practical models, and measurable outcomes.
 
+GitHub profile: [Mindeulaeggot](https://github.com/Mindeulaeggot)
+
 This portfolio highlights projects that demonstrate:
 
 - exploratory data analysis and data cleaning
@@ -39,7 +41,7 @@ Detailed write-up: [docs/scm-demand-forecast-case-study.md](./docs/scm-demand-fo
 
 ### 2. Customer Churn Prediction
 
-Local project prepared for portfolio publishing from this workspace.
+Repository: [Mindeulaeggot/customer-churn-ml-project](https://github.com/Mindeulaeggot/customer-churn-ml-project)
 
 Why this project matters:
 
@@ -101,3 +103,4 @@ I use the checklist in [docs/portfolio-review-rubric.md](./docs/portfolio-review
 ## Contact / Profile
 
 - GitHub: [Mindeulaeggot](https://github.com/Mindeulaeggot)
+- Profile README: [Mindeulaeggot/Mindeulaeggot](https://github.com/Mindeulaeggot/Mindeulaeggot)
