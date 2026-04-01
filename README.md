@@ -30,6 +30,7 @@ Why this project matters:
 - Connects predictive modeling to business decisions, not just model accuracy
 - Uses retail time-series data in a supply-chain context
 - Translates forecasts into safety stock and reorder point recommendations
+- Shows how data can support inventory efficiency, not only prediction quality
 
 Key highlights:
 
