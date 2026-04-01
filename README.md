@@ -1,6 +1,6 @@
-# Data Analytics Portfolio
+# Data Analytics and SCM Portfolio
 
-I am an aspiring data analyst and machine learning intern interested in turning messy business data into clear decisions, practical models, and measurable outcomes.
+I am an aspiring data analytics and SCM intern interested in turning messy business data into clear decisions, practical models, and measurable operational outcomes.
 
 GitHub profile: [Mindeulaeggot](https://github.com/Mindeulaeggot)
 
@@ -14,6 +14,7 @@ This portfolio highlights projects that demonstrate:
 ## Target Roles
 
 - Data Analyst Intern
+- SCM Intern
 - Business Analyst Intern
 - Data Science Intern
 - Operations Analytics Intern
@@ -87,7 +88,7 @@ My portfolio is strongest when presented as:
 
 - someone with solid machine learning coursework translated into practical projects
 - someone who can explain not only what model was built, but why the result matters
-- someone whose best projects are in structured data, forecasting, and business analytics
+- someone whose best projects are in structured data, forecasting, business analytics, and supply chain decision support
 
 ## What I Am Adding Next
 
