@@ -21,6 +21,8 @@ This portfolio highlights projects that demonstrate:
 
 ## Featured Projects
 
+This portfolio is intentionally structured around a small number of representative projects instead of listing everything equally. The goal is to present the strongest application-ready combination.
+
 ### 1. Demand Forecasting and Inventory Optimization
 
 Repository: [Mindeulaeggot/scm-demand-forecast-inventory-optimization](https://github.com/Mindeulaeggot/scm-demand-forecast-inventory-optimization)
@@ -59,15 +61,29 @@ Key highlights:
 
 Detailed write-up: [docs/customer-churn-case-study.md](./docs/customer-churn-case-study.md)
 
-### 3. Titanic Survival Classifier
+### 3. Machine Learning Notebook Portfolio
 
-Repository: [Mindeulaeggot/ml-titanic-classifier](https://github.com/Mindeulaeggot/ml-titanic-classifier)
+Repository: [Mindeulaeggot/Machine-Learning](https://github.com/Mindeulaeggot/Machine-Learning)
 
 Why it stays in the portfolio:
 
-- Easy for recruiters to understand quickly
-- Strong for showing basic classification workflow and model comparison
-- Useful as a compact supporting project behind the larger flagship work
+- Shows broad hands-on familiarity with core scikit-learn workflows
+- Supports the flagship projects with evidence of preprocessing, validation, and tuning basics
+- Works best as supporting material rather than the first project a recruiter sees
+
+## Why These 3
+
+This is the strongest current combination on GitHub because it covers:
+
+- business-facing forecasting and SCM decision support
+- customer analytics and machine learning classification
+- general machine learning workflow fundamentals
+
+Together, these projects show analysis, modeling, and business interpretation without relying too heavily on tutorial-style examples.
+
+## Current Gap
+
+The biggest missing piece is a stronger public project for data collection, such as web scraping plus cleaning plus analysis. That is the next portfolio build priority because it would complete the full pipeline story from collection to insight.
 
 ## Technical Skills Demonstrated
 
@@ -93,9 +109,9 @@ My portfolio is strongest when presented as:
 
 ## What I Am Adding Next
 
+- one web scraping plus analysis project
 - one SQL-focused analytics project
 - one dashboard project using Tableau, Power BI, or Streamlit
-- one stronger EDA case study with business recommendations
 - cleaner GitHub profile branding and pinned repository order
 
 ## Review Standard

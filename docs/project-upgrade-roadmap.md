@@ -2,12 +2,12 @@
 
 ## Immediate
 
-- publish the churn project to GitHub
-- create a GitHub profile README for stronger first impression
-- pin the SCM, churn, and Titanic projects in that order
+- pin the SCM, churn, and Machine-Learning projects in that order
+- add a web scraping plus analysis project to replace the supporting notebook portfolio over time
 
 ## Next 2 Weeks
 
+- add one web scraping plus analysis project
 - add one SQL analytics project
 - add one dashboard project
 - rewrite repository descriptions to be business-focused
