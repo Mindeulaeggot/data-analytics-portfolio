@@ -2,12 +2,10 @@
 
 ## Immediate
 
-- pin the SCM, churn, and Machine-Learning projects in that order
-- add a web scraping plus analysis project to replace the supporting notebook portfolio over time
+- pin the SCM, churn, and worldometer-country-analysis projects in that order
 
 ## Next 2 Weeks
 
-- add one web scraping plus analysis project
 - add one SQL analytics project
 - add one dashboard project
 - rewrite repository descriptions to be business-focused

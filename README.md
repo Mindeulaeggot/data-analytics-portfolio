@@ -61,15 +61,17 @@ Key highlights:
 
 Detailed write-up: [docs/customer-churn-case-study.md](./docs/customer-churn-case-study.md)
 
-### 3. Machine Learning Notebook Portfolio
+### 3. Web Scraping and Country Data Analysis
 
-Repository: [Mindeulaeggot/Machine-Learning](https://github.com/Mindeulaeggot/Machine-Learning)
+Repository: [Mindeulaeggot/worldometer-country-analysis](https://github.com/Mindeulaeggot/worldometer-country-analysis)
 
 Why it stays in the portfolio:
 
-- Shows broad hands-on familiarity with core scikit-learn workflows
-- Supports the flagship projects with evidence of preprocessing, validation, and tuning basics
-- Works best as supporting material rather than the first project a recruiter sees
+- Shows that I can collect my own data instead of relying only on ready-made CSV files
+- Demonstrates web scraping, cleaning, joining, and visualization in one workflow
+- Completes the portfolio story from data collection to analysis and modeling
+
+Detailed write-up: [docs/web-scraping-country-analysis-case-study.md](./docs/web-scraping-country-analysis-case-study.md)
 
 ## Why These 3
 
@@ -77,13 +79,9 @@ This is the strongest current combination on GitHub because it covers:
 
 - business-facing forecasting and SCM decision support
 - customer analytics and machine learning classification
-- general machine learning workflow fundamentals
+- data collection, cleaning, and exploratory analysis
 
 Together, these projects show analysis, modeling, and business interpretation without relying too heavily on tutorial-style examples.
-
-## Current Gap
-
-The biggest missing piece is a stronger public project for data collection, such as web scraping plus cleaning plus analysis. That is the next portfolio build priority because it would complete the full pipeline story from collection to insight.
 
 ## Technical Skills Demonstrated
 
@@ -109,7 +107,6 @@ My portfolio is strongest when presented as:
 
 ## What I Am Adding Next
 
-- one web scraping plus analysis project
 - one SQL-focused analytics project
 - one dashboard project using Tableau, Power BI, or Streamlit
 - cleaner GitHub profile branding and pinned repository order
