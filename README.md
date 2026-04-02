@@ -36,7 +36,7 @@ Key highlights:
 
 - Analyzed about `4.57 million` retail sales rows
 - Compared baseline, linear regression, and random forest forecasting approaches
-- Reduced MAE from `11.73` to `3.64` on the sample series
+- Reduced MAE from `11.73` to `3.64` and RMSE from `15.71` to `4.52` on the sample series
 - Converted forecast output into reorder logic under lead-time and service-level assumptions
 
 Detailed write-up: [docs/scm-demand-forecast-case-study.md](./docs/scm-demand-forecast-case-study.md)
